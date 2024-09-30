@@ -1,0 +1,92 @@
+.Mid {
+    width: 1440px;
+    height: 1084px;
+}
+
+.head {
+    display: flex;
+    width: 245px;
+    height: 50px;
+    margin-top: 50px;
+    margin-left: 607px;
+
+    font-family: sans-serif;
+    font-size: 46px;
+    font-weight: 500;
+    line-height: 50px;
+    text-align: center;
+    color: #31546D;
+}
+
+.filter {
+    font-weight: 700;
+    margin-top: 50px;
+    margin-left: 50px;
+    color: #31546D;
+}
+
+
+.sort {
+    color: #31546D;
+    margin-left: 50px;
+    font-weight: 700;
+}
+
+.items {
+    width: 1340px;
+    height: 854px;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+.firstrow {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    height:400px;
+}
+
+.firstrow .col1{
+    border: rgb(182, 182, 182) solid 1px;
+    border-radius: 7%;
+}
+.firstrow .col2{
+    border: rgb(182, 182, 182) solid 1px;
+    border-radius: 7%;
+}
+.firstrow .col3{
+    border: rgb(182, 182, 182) solid 1px;
+    border-radius: 7%;
+}
+.firstrow .col4{
+    border: rgb(182, 182, 182) solid 1px;
+    border-radius: 7%;
+}
+
+.secondrow {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    height:400px;
+}
+
+.secondrow .col1{
+    border: rgb(182, 182, 182) solid 1px;
+    border-radius: 7%;
+}
+.secondrow .col2{
+    border: rgb(182, 182, 182) solid 1px;
+    border-radius: 7%;
+}
+.secondrow .col3{
+    border: rgb(182, 182, 182) solid 1px;
+    border-radius: 7%;
+}
+.secondrow .col4{
+    border: rgb(182, 182, 182) solid 1px;
+    border-radius: 7%;
+}
